@@ -7,9 +7,16 @@
 .exercice-justify-1  .container {
   display: flex;
   flex-direction: row;
-justify-content: flex-end;}
+  justify-content: flex-end;
+}
 
 /* 3. exercice-justify-2 */
+.exercice-justify-2  .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
 
 
 /* 4. exercice-justify-3 */
